@@ -1,7 +1,7 @@
 # Computer-Vision-Techniques-using-OpenCV-library
 
-Draw geometric shapes on images 
-Setting Camera Parameters and Show Date and Time on Videos
+Draw geometric shapes on images   
+Setting Camera Parameters and Show Date and Time on Videos  
 Painting lines using Mouse Events 
 Object Detection and Object Tracking Using HSV Color Space
 Simple Image Thresholding
